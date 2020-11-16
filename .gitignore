@@ -15,6 +15,15 @@ ceti-scrapper-firebase-adminsdk-xkfth-b938b19f8c.json
 .vscode
 *.code-workspace
 
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
+
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
 
